@@ -6,6 +6,7 @@ public class Main {
         System.out.println("This is an experminet!");
         System.out.println("Hello world!");
         System.out.println("Working on login with facebook");
+        System.out.println( "Finished login with facebook");
 
     }
 }
