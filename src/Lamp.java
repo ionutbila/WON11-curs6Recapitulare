@@ -5,6 +5,7 @@ public class Lamp {
     private int intensity;
 
     private boolean addedLater;
+    private boolean oneMore;
 
     Lamp() {
         System.out.println("Starting construction of lamp");
