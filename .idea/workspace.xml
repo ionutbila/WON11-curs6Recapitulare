@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db9e2317-aba0-4eeb-a843-e0a3aa1dd17d" name="Changes" comment="first experiment commit recapitulare">
+      <change afterPath="$PROJECT_DIR$/src/homeworkCurs6/ApplicationForPersons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworkCurs6/ApplicationForProducts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworkCurs6/Bottle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworkCurs6/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworkCurs6/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lamp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lamp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,23 +40,10 @@
     </excluded-from-favorite>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="experimental-feature-recapitulare" />
+        <entry key="$PROJECT_DIR$" value="Curs7" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="ed396218-7ebf-495b-88af-6b1c5eb783c3" />
-        <option name="url" value="https://github.com/ionutbila/WON11-curs6Recapitulare.git" />
-      </UrlAndAccount>
-    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -69,7 +60,33 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ApplicationForBottle">
+    <configuration name="ApplicationForBottle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworkCurs6.ApplicationForBottle" />
+      <module name="FirstIntellijProjectRecapitulare" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeworkCurs6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationForPersons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworkCurs6.ApplicationForPersons" />
+      <module name="FirstIntellijProjectRecapitulare" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeworkCurs6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="FirstIntellijProjectRecapitulare" />
@@ -77,10 +94,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="staticpackage.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="staticpackage.Main" />
+      <module name="FirstIntellijProjectRecapitulare" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="staticpackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ApplicationForBottle" />
+        <item itemvalue="Application.ApplicationForPersons" />
+        <item itemvalue="Application.staticpackage.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main" />
       </list>
@@ -109,14 +140,7 @@
       <option name="project" value="LOCAL" />
       <updated>1705480915209</updated>
     </task>
-    <task id="LOCAL-00003" summary="first experiment commit recapitulare">
-      <created>1705481698601</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1705481698601</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,7 +157,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit from IntellijRecapitulare" />
     <MESSAGE value="added a new print line" />
-    <MESSAGE value="first experiment commit recapitulare" />
-    <option name="LAST_COMMIT_MESSAGE" value="first experiment commit recapitulare" />
+    <option name="LAST_COMMIT_MESSAGE" value="added a new print line" />
   </component>
 </project>
