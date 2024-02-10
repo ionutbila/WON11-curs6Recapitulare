@@ -1,29 +1,37 @@
-package homework6;
+package homework6.bottleexercise;
+
+import homework6.personexercise.Person;
 
 public class Bottle {
-    // private int totalCapacity;
-    //  private int availableLiquid;
-    // private boolean open;
     private int availableLiquid;
-    private int totalcapacity;
+    private int totalCapacity;
     private boolean open;
 
+    public void otherMethod() {
+        Person person = new Person("Alex");
+        person.publicField = true;
+        // person.privateField = false; -- compile error
+    }
 
-    public boolean HasMoreliquid() {
+
+    public boolean hasMoreliquid() {
+
         return availableLiquid > 0;
     }
 
     public int getAvailableLiquid() {
+
         return availableLiquid;
     }
 
     public int getEmptyCapacity() {
-        return totalcapacity - availableLiquid;
+
+        return totalCapacity - availableLiquid;
     }
 
     public String open() {
         if (open) {
-            return "Bottle is already open";
+            return "Bottle is already opened";
         }
         open = true;
         return "Bottle is opened";
@@ -33,37 +41,35 @@ public class Bottle {
         if (!open) {
             return "The bottle is already closed";
         }
-
         open = false;
         return "Bottle is closed";
     }
 
     public String drink(int liquidToDrink) {
-        if(liquidToDrink<0){
+        if (liquidToDrink < 0) {
             return "Quantity to drink must be positive";
         }
         if (!open) {
-            return "Bottle is not open";
+            return "Bottle is not opened";
         }
         if (liquidToDrink > availableLiquid) {
             return "Not enough liquid";
         }
         availableLiquid -= liquidToDrink;
-        return liquidToDrink + " has been drunk";
+        return liquidToDrink + " has been drank";
     }
 
-    public String refill(int liquidToAdd){
-        if(liquidToAdd<0){
+    private String refill(int liquidToAdd) {
+        if (liquidToAdd < 0) {
             return "Quantity to refill must be positive";
         }
-        availableLiquid=Math.min(totalcapacity, availableLiquid+liquidToAdd);
-        return liquidToAdd+ " was added";
+        availableLiquid = Math.min(totalCapacity, availableLiquid + liquidToAdd);
+        return liquidToAdd + " was added";
     }
 
-    public String refill(){
-        int addedLiquid=getEmptyCapacity();
-        refill(addedLiquid);
-        return "The bottle was filled" + addedLiquid;
+    public String refill() {
+        int addedLiquid = getEmptyCapacity();
+        this.refill(addedLiquid);
+        return "Bottle was filled with " + addedLiquid;
     }
-
 }
