@@ -4,31 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db9e2317-aba0-4eeb-a843-e0a3aa1dd17d" name="Changes" comment="added a new print line">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework7/abstractClass/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework7/abstractClass/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework7/abstractClass/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework7/abstractClass/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework7/abstractClass/WalkingCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework7/adProvider/AdProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework7/adProvider/Email.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework7/adProvider/Facebook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework7/adProvider/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework7/adProvider/Print.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework7/animal/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework7/animal/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework7/animal/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework7/animal/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework7/inheritance/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework7/inheritance/CatWithTwoWheels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework7/inheritance/CityBike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework7/inheritance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework7/inheritance/mountain/MountainBike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework7/student/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework7/student/Student.java" afterDir="false" />
+    <list default="true" id="db9e2317-aba0-4eeb-a843-e0a3aa1dd17d" name="Changes" comment="curs 8">
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs8/ex1/Cosmetics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs8/ex1/Electronics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs8/ex1/Fridge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs8/ex1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs8/ex1/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs8/ex2/DatabaseAdmin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs8/ex2/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs8/ex2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs8/ex2/Object.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs8/ex2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs8/ex2/Programmer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +68,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.homework7.animal.Main">
+  <component name="RunManager" selected="Application.org.fasttrackit.homeworkcurs8.ex2.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="FirstIntellijProjectRecapitulare" />
@@ -101,8 +89,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="org.fasttrackit.homework7.inheritance.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.fasttrackit.homework7.inheritance.Main" />
+      <module name="FirstIntellijProjectRecapitulare" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.fasttrackit.homework7.inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.fasttrackit.homeworkcurs8.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.fasttrackit.homeworkcurs8.Main" />
+      <module name="FirstIntellijProjectRecapitulare" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.fasttrackit.homeworkcurs8.ex1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.fasttrackit.homeworkcurs8.ex2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.fasttrackit.homeworkcurs8.ex2.Main" />
+      <module name="FirstIntellijProjectRecapitulare" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.fasttrackit.homeworkcurs8.ex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.fasttrackit.homeworkcurs8.ex2.Main" />
+        <item itemvalue="Application.org.fasttrackit.homeworkcurs8.Main" />
+        <item itemvalue="Application.org.fasttrackit.homework7.inheritance.Main" />
         <item itemvalue="Application.homework7.animal.Main" />
         <item itemvalue="Application.Main" />
       </list>
@@ -131,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705480915209</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="curs 8">
+      <created>1707903589872</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707903589872</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,6 +185,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit from IntellijRecapitulare" />
     <MESSAGE value="added a new print line" />
-    <option name="LAST_COMMIT_MESSAGE" value="added a new print line" />
+    <MESSAGE value="curs 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="curs 8" />
   </component>
 </project>
