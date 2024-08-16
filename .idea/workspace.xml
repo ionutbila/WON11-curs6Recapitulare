@@ -4,44 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="597b7e3b-851a-4f23-a268-a7ac90b8e6a3" name="Changes" comment="added new exercises/courses/homeworks">
-      <change afterPath="$PROJECT_DIR$/files/grades.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/Classroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/ReportGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/StudentGrade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/StudentGradeList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Chair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Classroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Desk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Document.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Door.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/File.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Flashlight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Folder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Guitar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Laptop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Milk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/OperatingSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Pen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Pool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/RemoteControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/School.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/TV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Telephone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/ToothBrush.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Window.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="597b7e3b-851a-4f23-a268-a7ac90b8e6a3" name="Changes" comment="added new exercises/courses/homeworks" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -199,7 +162,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705480915209</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added new exercises/courses/homeworks">
+      <option name="closed" value="true" />
+      <created>1723804107310</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723804107310</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
