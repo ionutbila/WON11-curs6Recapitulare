@@ -4,21 +4,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="597b7e3b-851a-4f23-a268-a7ac90b8e6a3" name="Changes" comment="added a new print line">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/content.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/persons.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/curs10/files/ObjectsFromFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/curs10/files/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/curs10/files/ReadingFromFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/curs10/files/WritingToFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/curs10/regex/RegexExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework/Bucket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework/Person.java" afterDir="false" />
+    <list default="true" id="597b7e3b-851a-4f23-a268-a7ac90b8e6a3" name="Changes" comment="added new exercises/courses/homeworks">
+      <change afterPath="$PROJECT_DIR$/files/grades.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/Classroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/ReportGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/StudentGrade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/StudentGradeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Chair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Classroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Desk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Document.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Door.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Flashlight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Folder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Guitar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Milk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/OperatingSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Pen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Pool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/RemoteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/TV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Telephone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/ToothBrush.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Window.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,11 +68,20 @@
         </map>
       </branch-storage>
     </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Curs_9" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 1
+}]]></component>
   <component name="ProjectId" id="2b4d2GYAcm0binlt5f1PXtZVwjd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -59,20 +90,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "curs10",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.ReadingFromFile">
-    <configuration name="ObjectsFromFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.fasttrackit.curs10.files.ObjectsFromFile" />
+}]]></component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.fasttrackit.homeworkcurs10.Main" />
       <module name="FirstIntellijProjectRecapitulare" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.fasttrackit.curs10.files.*" />
+          <option name="PATTERN" value="org.fasttrackit.homeworkcurs10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,10 +168,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReadingFromFile" />
-        <item itemvalue="Application.RegexExample" />
-        <item itemvalue="Application.ObjectsFromFile" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.WritingToFile" />
+        <item itemvalue="Application.RegexExample" />
+        <item itemvalue="Application.ReadingFromFile" />
         <item itemvalue="Application.org.fasttrackit.homework.Main" />
       </list>
     </recent_temporary>
@@ -182,6 +216,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit from IntellijRecapitulare" />
     <MESSAGE value="added a new print line" />
-    <option name="LAST_COMMIT_MESSAGE" value="added a new print line" />
+    <MESSAGE value="added new exercises/courses/homeworks" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new exercises/courses/homeworks" />
   </component>
 </project>
