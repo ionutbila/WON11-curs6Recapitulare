@@ -1,0 +1,35 @@
+Index: src/homework6/Bottle.java
+===================================================================
+diff --git a/src/homework6/Bottle.java b/src/homework6/bottleexercise/Bottle.java
+rename from src/homework6/Bottle.java
+rename to src/homework6/bottleexercise/Bottle.java
+--- a/src/homework6/Bottle.java	
++++ b/src/homework6/bottleexercise/Bottle.java	
+@@ -1,4 +1,4 @@
+-package homework6;
++package homework6.bottleexercise;
+ 
+ public class Bottle {
+     // private int totalCapacity;
+@@ -8,6 +8,12 @@
+     private int totalcapacity;
+     private boolean open;
+ 
++   /* public void otherMethod(){
++        Person person =new Person(Alex);
++        person.publicField=true;
++        //person.privateField
++    }*/
++
+ 
+     public boolean HasMoreliquid() {
+         return availableLiquid > 0;
+@@ -52,7 +58,7 @@
+         return liquidToDrink + " has been drunk";
+     }
+ 
+-    public String refill(int liquidToAdd){
++    private String refill(int liquidToAdd){
+         if(liquidToAdd<0){
+             return "Quantity to refill must be positive";
+         }

@@ -1,0 +1,13 @@
+Index: src/homework6/Bottle.java
+===================================================================
+diff --git a/src/homework6/Bottle.java b/src/homework6/bottleexercise/Bottle.java
+rename from src/homework6/Bottle.java
+rename to src/homework6/bottleexercise/Bottle.java
+--- a/src/homework6/Bottle.java	
++++ b/src/homework6/bottleexercise/Bottle.java	
+@@ -1,4 +1,4 @@
+-package homework6;
++package homework6.bottleexercise;
+ 
+ public class Bottle {
+     // private int totalCapacity;

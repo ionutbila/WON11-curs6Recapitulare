@@ -1,0 +1,59 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"db9e2317-aba0-4eeb-a843-e0a3aa1dd17d\" name=\"Changes\" comment=\"first experiment commit recapitulare\">\r\n      <change afterPath=\"$PROJECT_DIR$/src/homeworkCurs6/ApplicationForPersons.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/homeworkCurs6/ApplicationForProducts.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/homeworkCurs6/Bottle.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/homeworkCurs6/Person.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/homeworkCurs6/Product.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <excluded-from-favorite>\r\n      <branch-storage>\r\n        <map>\r\n          <entry type=\"LOCAL\">\r\n            <value>\r\n              <list>\r\n                <branch-info repo=\"$PROJECT_DIR$\" source=\"master\" />\r\n              </list>\r\n            </value>\r\n          </entry>\r\n        </map>\r\n      </branch-storage>\r\n    </excluded-from-favorite>\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"Curs7\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2b4d2GYAcm0binlt5f1PXtZVwjd\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RunManager\" selected=\"Application.ApplicationForBottle\">\r\n    <configuration name=\"ApplicationForBottle\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"homeworkCurs6.ApplicationForBottle\" />\r\n      <module name=\"FirstIntellijProjectRecapitulare\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"homeworkCurs6.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"ApplicationForPersons\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"homeworkCurs6.ApplicationForPersons\" />\r\n      <module name=\"FirstIntellijProjectRecapitulare\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"homeworkCurs6.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Main\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Main\" />\r\n      <module name=\"FirstIntellijProjectRecapitulare\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"staticpackage.Main\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"staticpackage.Main\" />\r\n      <module name=\"FirstIntellijProjectRecapitulare\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"staticpackage.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.ApplicationForBottle\" />\r\n        <item itemvalue=\"Application.ApplicationForPersons\" />\r\n        <item itemvalue=\"Application.staticpackage.Main\" />\r\n        <item itemvalue=\"Application.Main\" />\r\n        <item itemvalue=\"Application.Main\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"db9e2317-aba0-4eeb-a843-e0a3aa1dd17d\" name=\"Changes\" comment=\"\" />\r\n      <created>1705478076606</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1705478076606</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"first commit from IntellijRecapitulare\">\r\n      <created>1705480150033</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1705480150033</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"added a new print line\">\r\n      <created>1705480915209</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1705480915209</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"3\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"first commit from IntellijRecapitulare\" />\r\n    <MESSAGE value=\"added a new print line\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"added a new print line\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -4,12 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="db9e2317-aba0-4eeb-a843-e0a3aa1dd17d" name="Changes" comment="first experiment commit recapitulare">
+-      <change afterPath="$PROJECT_DIR$/src/homeworkCurs6/ApplicationForPersons.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/homeworkCurs6/ApplicationForProducts.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/homeworkCurs6/Bottle.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/homeworkCurs6/Person.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/homeworkCurs6/Product.java" afterDir="false" />
++    <list default="true" id="db9e2317-aba0-4eeb-a843-e0a3aa1dd17d" name="Changes" comment="Curs 7">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+@@ -45,6 +40,19 @@
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
++  <component name="GitHubPullRequestSearchHistory">{
++  &quot;lastFilter&quot;: {
++    &quot;state&quot;: &quot;OPEN&quot;
++  }
++}</component>
++  <component name="GithubPullRequestsUISettings">
++    <option name="selectedUrlAndAccountId">
++      <UrlAndAccount>
++        <option name="accountId" value="ed396218-7ebf-495b-88af-6b1c5eb783c3" />
++        <option name="url" value="https://github.com/ionutbila/WON11-curs6Recapitulare.git" />
++      </UrlAndAccount>
++    </option>
++  </component>
+   <component name="MarkdownSettingsMigration">
+     <option name="stateVersion" value="1" />
+   </component>
+@@ -109,11 +117,11 @@
+     </configuration>
+     <recent_temporary>
+       <list>
+-        <item itemvalue="Application.ApplicationForBottle" />
+-        <item itemvalue="Application.ApplicationForPersons" />
+         <item itemvalue="Application.staticpackage.Main" />
+         <item itemvalue="Application.Main" />
+-        <item itemvalue="Application.Main" />
++        <item itemvalue="Application.ApplicationForPersons" />
++        <item itemvalue="Application.ApplicationForBottle" />
++        <item itemvalue="Application.ApplicationForBottle" />
+       </list>
+     </recent_temporary>
+   </component>

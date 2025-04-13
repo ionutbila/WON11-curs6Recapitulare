@@ -1,0 +1,918 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"db9e2317-aba0-4eeb-a843-e0a3aa1dd17d\" name=\"Changes\" comment=\"Curs 9\">\r\n      <change afterPath=\"$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs9/Basket.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs9/Buquet.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs9/Company.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs9/Person.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/org/fasttrackit/curs9/ListExample.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/org/fasttrackit/curs9/ListExample.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Interface\" />\r\n        <option value=\"package-info\" />\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <excluded-from-favorite>\r\n      <branch-storage>\r\n        <map>\r\n          <entry type=\"LOCAL\">\r\n            <value>\r\n              <list>\r\n                <branch-info repo=\"$PROJECT_DIR$\" source=\"master\" />\r\n              </list>\r\n            </value>\r\n          </entry>\r\n        </map>\r\n      </branch-storage>\r\n    </excluded-from-favorite>\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2b4d2GYAcm0binlt5f1PXtZVwjd\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RunManager\" selected=\"Application.Company\">\r\n    <configuration name=\"Basket\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.fasttrackit.homeworkcurs9.Basket\" />\r\n      <module name=\"FirstIntellijProjectRecapitulare\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"org.fasttrackit.homeworkcurs9.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Buquet\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.fasttrackit.homeworkcurs9.Buquet\" />\r\n      <module name=\"FirstIntellijProjectRecapitulare\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"org.fasttrackit.homeworkcurs9.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Company\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.fasttrackit.homeworkcurs9.Company\" />\r\n      <module name=\"FirstIntellijProjectRecapitulare\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"org.fasttrackit.homeworkcurs9.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Person\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.fasttrackit.homeworkcurs9.Person\" />\r\n      <module name=\"FirstIntellijProjectRecapitulare\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"org.fasttrackit.homeworkcurs9.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"SetExample\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.fasttrackit.curs9.SetExample\" />\r\n      <module name=\"FirstIntellijProjectRecapitulare\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"org.fasttrackit.curs9.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.Company\" />\r\n        <item itemvalue=\"Application.Buquet\" />\r\n        <item itemvalue=\"Application.Basket\" />\r\n        <item itemvalue=\"Application.Person\" />\r\n        <item itemvalue=\"Application.SetExample\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"db9e2317-aba0-4eeb-a843-e0a3aa1dd17d\" name=\"Changes\" comment=\"\" />\r\n      <created>1705478076606</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1705478076606</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"first commit from IntellijRecapitulare\">\r\n      <created>1705480150033</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1705480150033</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"added a new print line\">\r\n      <created>1705480915209</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1705480915209</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"curs 8\">\r\n      <created>1707903589872</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1707903589872</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Curs 8 homework\">\r\n      <created>1708535538173</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1708535538173</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"Curs 9\">\r\n      <created>1708535747251</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1708535747251</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"6\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"first commit from IntellijRecapitulare\" />\r\n    <MESSAGE value=\"added a new print line\" />\r\n    <MESSAGE value=\"curs 8\" />\r\n    <MESSAGE value=\"Curs 8 homework\" />\r\n    <MESSAGE value=\"Curs 9\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Curs 9\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 9daa38a3c92b2308a80444b6e3fb63d6dd047ec8)
++++ b/.idea/workspace.xml	(date 1723628308799)
+@@ -4,13 +4,43 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="db9e2317-aba0-4eeb-a843-e0a3aa1dd17d" name="Changes" comment="Curs 9">
+-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs9/Basket.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs9/Buquet.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs9/Company.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs9/Person.java" afterDir="false" />
++    <list default="true" id="597b7e3b-851a-4f23-a268-a7ac90b8e6a3" name="Changes" comment="added a new print line">
++      <change afterPath="$PROJECT_DIR$/files/grades.txt" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/Classroom.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/Main.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/ReportGenerator.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/StudentGrade.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/StudentGradeList.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Animal.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Application.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Bike.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Book.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Car.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Chair.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Classroom.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Coffee.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Desk.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Document.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Door.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/File.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Flashlight.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Folder.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Guitar.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/House.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Laptop.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Milk.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/OperatingSystem.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Pen.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Person.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Pool.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/RemoteControl.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/School.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/TV.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Telephone.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/ToothBrush.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/User.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercise3/Window.java" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/org/fasttrackit/curs9/ListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/fasttrackit/curs9/ListExample.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -20,8 +50,6 @@
+   <component name="FileTemplateManagerImpl">
+     <option name="RECENT_TEMPLATES">
+       <list>
+-        <option value="Interface" />
+-        <option value="package-info" />
+         <option value="Class" />
+       </list>
+     </option>
+@@ -42,7 +70,7 @@
+     </excluded-from-favorite>
+     <option name="RECENT_BRANCH_BY_REPOSITORY">
+       <map>
+-        <entry key="$PROJECT_DIR$" value="master" />
++        <entry key="$PROJECT_DIR$" value="curs10" />
+       </map>
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+@@ -58,20 +86,21 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "RunOnceActivity.OpenProjectViewOnStart": "true",
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
++    "git-widget-placeholder": "Curs__9"
+   }
+-}</component>
+-  <component name="RunManager" selected="Application.Company">
+-    <configuration name="Basket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="org.fasttrackit.homeworkcurs9.Basket" />
++}]]></component>
++  <component name="RunManager" selected="Application.ReadingFromFile">
++    <configuration name="ObjectsFromFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="org.fasttrackit.curs10.files.ObjectsFromFile" />
+       <module name="FirstIntellijProjectRecapitulare" />
+       <extension name="coverage">
+         <pattern>
+-          <option name="PATTERN" value="org.fasttrackit.homeworkcurs9.*" />
++          <option name="PATTERN" value="org.fasttrackit.curs10.files.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+@@ -79,12 +108,12 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="Buquet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="org.fasttrackit.homeworkcurs9.Buquet" />
++    <configuration name="ReadingFromFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="org.fasttrackit.curs10.files.ReadingFromFile" />
+       <module name="FirstIntellijProjectRecapitulare" />
+       <extension name="coverage">
+         <pattern>
+-          <option name="PATTERN" value="org.fasttrackit.homeworkcurs9.*" />
++          <option name="PATTERN" value="org.fasttrackit.curs10.files.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+@@ -92,12 +121,12 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="Company" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="org.fasttrackit.homeworkcurs9.Company" />
++    <configuration name="RegexExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="org.fasttrackit.curs10.regex.RegexExample" />
+       <module name="FirstIntellijProjectRecapitulare" />
+       <extension name="coverage">
+         <pattern>
+-          <option name="PATTERN" value="org.fasttrackit.homeworkcurs9.*" />
++          <option name="PATTERN" value="org.fasttrackit.curs10.regex.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+@@ -105,12 +134,12 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="org.fasttrackit.homeworkcurs9.Person" />
++    <configuration name="WritingToFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="org.fasttrackit.curs10.files.WritingToFile" />
+       <module name="FirstIntellijProjectRecapitulare" />
+       <extension name="coverage">
+         <pattern>
+-          <option name="PATTERN" value="org.fasttrackit.homeworkcurs9.*" />
++          <option name="PATTERN" value="org.fasttrackit.curs10.files.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+@@ -118,12 +147,12 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="SetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="org.fasttrackit.curs9.SetExample" />
++    <configuration name="org.fasttrackit.homework.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="org.fasttrackit.homework.Main" />
+       <module name="FirstIntellijProjectRecapitulare" />
+       <extension name="coverage">
+         <pattern>
+-          <option name="PATTERN" value="org.fasttrackit.curs9.*" />
++          <option name="PATTERN" value="org.fasttrackit.homework.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+@@ -133,18 +162,18 @@
+     </configuration>
+     <recent_temporary>
+       <list>
+-        <item itemvalue="Application.Company" />
+-        <item itemvalue="Application.Buquet" />
+-        <item itemvalue="Application.Basket" />
+-        <item itemvalue="Application.Person" />
+-        <item itemvalue="Application.SetExample" />
++        <item itemvalue="Application.ReadingFromFile" />
++        <item itemvalue="Application.RegexExample" />
++        <item itemvalue="Application.ObjectsFromFile" />
++        <item itemvalue="Application.WritingToFile" />
++        <item itemvalue="Application.org.fasttrackit.homework.Main" />
+       </list>
+     </recent_temporary>
+   </component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">
+-      <changelist id="db9e2317-aba0-4eeb-a843-e0a3aa1dd17d" name="Changes" comment="" />
++      <changelist id="597b7e3b-851a-4f23-a268-a7ac90b8e6a3" name="Changes" comment="added a new print line" />
+       <created>1705478076606</created>
+       <option name="number" value="Default" />
+       <option name="presentableId" value="Default" />
+@@ -164,28 +193,7 @@
+       <option name="project" value="LOCAL" />
+       <updated>1705480915209</updated>
+     </task>
+-    <task id="LOCAL-00003" summary="curs 8">
+-      <created>1707903589872</created>
+-      <option name="number" value="00003" />
+-      <option name="presentableId" value="LOCAL-00003" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1707903589872</updated>
+-    </task>
+-    <task id="LOCAL-00004" summary="Curs 8 homework">
+-      <created>1708535538173</created>
+-      <option name="number" value="00004" />
+-      <option name="presentableId" value="LOCAL-00004" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1708535538173</updated>
+-    </task>
+-    <task id="LOCAL-00005" summary="Curs 9">
+-      <created>1708535747251</created>
+-      <option name="number" value="00005" />
+-      <option name="presentableId" value="LOCAL-00005" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1708535747251</updated>
+-    </task>
+-    <option name="localTasksCounter" value="6" />
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -202,9 +210,6 @@
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="first commit from IntellijRecapitulare" />
+     <MESSAGE value="added a new print line" />
+-    <MESSAGE value="curs 8" />
+-    <MESSAGE value="Curs 8 homework" />
+-    <MESSAGE value="Curs 9" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Curs 9" />
++    <option name="LAST_COMMIT_MESSAGE" value="added a new print line" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: src/org/fasttrackit/homeworkcurs10/StudentGradeList.java
+===================================================================
+diff --git a/src/org/fasttrackit/homeworkcurs10/StudentGradeList.java b/src/org/fasttrackit/homeworkcurs10/StudentGradeList.java
+new file mode 100644
+--- /dev/null	(date 1723628159868)
++++ b/src/org/fasttrackit/homeworkcurs10/StudentGradeList.java	(date 1723628159868)
+@@ -0,0 +1,31 @@
++package org.fasttrackit.homeworkcurs10;
++
++import java.util.ArrayList;
++import java.util.List;
++import java.io.File;
++import java.io.FileNotFoundException;
++import java.util.Scanner;
++
++public class StudentGradeList {
++    public List<StudentGrade> readingTheStudents() throws FileNotFoundException {
++        List<String> lines = new ArrayList<>();
++        List<StudentGrade> students = new ArrayList<>();
++        Scanner scanner = new Scanner(new File("files/grades.txt"));
++        String x = "";
++        while (scanner.hasNext()) {
++            x = scanner.nextLine();
++            lines.add(x);
++        }
++        for (int i = 0; i < lines.size(); i++) {
++            String[] tokens = lines.get(i).split("\\|");
++            String[] nameAndSurname=tokens[0].split(" ");
++            if (tokens.length<3){
++                System.out.println("There is no grade for student: "+nameAndSurname[0]);
++            }else {
++                students.add(new StudentGrade(nameAndSurname[0], tokens[1], Integer.parseInt(tokens[2])));
++            }
++
++        }
++        return students;
++    }
++}
+\ No newline at end of file
+Index: src/org/fasttrackit/homeworkcurs10/Classroom.java
+===================================================================
+diff --git a/src/org/fasttrackit/homeworkcurs10/Classroom.java b/src/org/fasttrackit/homeworkcurs10/Classroom.java
+new file mode 100644
+--- /dev/null	(date 1723628159824)
++++ b/src/org/fasttrackit/homeworkcurs10/Classroom.java	(date 1723628159824)
+@@ -0,0 +1,107 @@
++package org.fasttrackit.homeworkcurs10;
++
++import java.util.ArrayList;
++import java.io.FileNotFoundException;
++import java.util.List;
++import java.util.Iterator;
++
++
++public class Classroom {
++
++    public List<StudentGrade> getTheList() throws FileNotFoundException {
++        StudentGradeList list = new StudentGradeList();
++        return list.readingTheStudents();
++    }
++
++    public List<Integer> getGradesForDiscipline(String discipline) throws FileNotFoundException {
++        List<Integer> listGradesForDiscipline = new ArrayList<>();
++        // Iterator i=getTheList().iterator();
++        for (int i = 0; i < getTheList().size(); i++) {
++            if ((getTheList().get(i).getDiscipline()).equals(discipline)) {
++                listGradesForDiscipline.add(getTheList().get(i).getGrade());
++            }
++        }
++        return listGradesForDiscipline;
++    }
++
++    public List<Integer> getGradesForStudent(String student) throws FileNotFoundException {
++        List<Integer> listGradesForStudent = new ArrayList<>();
++        for (int i = 0; i < getTheList().size(); i++) {
++            String[] tokens = getTheList().get(i).getName().split(" ");
++            if (student.toLowerCase().trim().equals(getTheList().get(i).getName().toLowerCase()) ||
++                    student.toLowerCase().trim().equals(tokens[0].toLowerCase()) ||
++                    student.toLowerCase().trim().equals(tokens[1].toLowerCase())) {
++                listGradesForStudent.add(getTheList().get(i).getGrade());
++            }
++        }
++        return listGradesForStudent;
++    }
++
++    public StudentGrade getMaxGrade(String discipline) throws FileNotFoundException {
++        List<Integer> list = new ArrayList<>();
++        for (int i = 0; i < getTheList().size(); i++) {
++            if (getTheList().get(i).getDiscipline().equals(discipline)) {
++                list.add(i);
++            }
++        }
++        int maxIndex = 0;
++        int maxGrade = getTheList().get(list.get(0)).getGrade();
++        for (int i = 1; i < list.size(); i++) {
++            if (i < list.size() - 1) {
++                int grade2 = getTheList().get(list.get(i)).getGrade();
++                int grade = Math.max(maxGrade, grade2);
++                if (grade > maxGrade) {
++                    maxGrade = grade;
++                    maxIndex = i;
++                }
++            }
++        }
++        return getTheList().get(list.get(maxIndex));
++    }
++
++    public StudentGrade getMaxGrade() throws FileNotFoundException {
++        int maxIndex = 0;
++        int maxGrade = getTheList().get(0).getGrade();
++        for (int i = 0; i < getTheList().size(); i++) {
++            int grade2 = getTheList().get(i).getGrade();
++            int grade = Math.max(maxGrade, grade2);
++            if (grade > maxGrade) {
++                maxGrade = grade2;
++                maxIndex = i;
++            }
++        }
++        return getTheList().get(maxIndex);
++    }
++
++    public Integer getAverageGrade(String discipline) throws FileNotFoundException {
++        int sumOfGrades = 0;
++        int count = 0;
++        for (int i = 0; i < getTheList().size(); i++) {
++            if (getTheList().get(i).getDiscipline().equals(discipline)) {
++                sumOfGrades += getTheList().get(i).getGrade();
++                count++;
++            }
++        }
++        return sumOfGrades / count;
++    }
++
++    public StudentGrade getWorstGrade(String discipline) throws FileNotFoundException {
++        List<Integer> list = new ArrayList<>();
++        for (int i = 0; i < getTheList().size(); i++) {
++            if (getTheList().get(i).getDiscipline().equals(discipline)) {
++                list.add(i);
++            }
++        }
++        int minIndex = 0;
++        int minGrade = getTheList().get(list.get(0)).getGrade();
++        for (int i = 1; i < list.size(); i++) {
++            int grade2 = getTheList().get(list.get(i)).getGrade();
++            int grade = Math.min(minGrade, grade2);
++            if (grade < minGrade) {
++                minGrade = grade;
++                minIndex = i;
++            }
++        }
++        return getTheList().get(list.get(minIndex));
++    }
++}
+Index: src/org/fasttrackit/homeworkcurs10/ReportGenerator.java
+===================================================================
+diff --git a/src/org/fasttrackit/homeworkcurs10/ReportGenerator.java b/src/org/fasttrackit/homeworkcurs10/ReportGenerator.java
+new file mode 100644
+--- /dev/null	(date 1723628159907)
++++ b/src/org/fasttrackit/homeworkcurs10/ReportGenerator.java	(date 1723628159907)
+@@ -0,0 +1,49 @@
++package org.fasttrackit.homeworkcurs10;
++
++import java.io.FileNotFoundException;
++import java.io.IOException;
++import java.util.List;
++import java.io.BufferedWriter;
++import java.io.FileWriter;
++
++public class ReportGenerator {
++    public List<StudentGrade> getTheList() throws FileNotFoundException {
++        StudentGradeList s = new StudentGradeList();
++        return s.readingTheStudents();
++    }
++    public void generateReport() throws IOException {
++        Classroom c=new Classroom();
++        BufferedWriter writer=new BufferedWriter(new FileWriter("files/grade-reports.out"));
++        writer.write("Cea mai mare nota: "+c.getMaxGrade().getName()+" "+c.getMaxGrade().getGrade());
++        writer.newLine();
++        writer.write("Nota medie: "+getAverageGrade());
++        writer.newLine();
++        writer.write("Cea mai mica nota: "+getWorstGrade().getName()+" "+getWorstGrade().getGrade());
++        writer.newLine();
++        writer.flush();
++    }
++
++    public Integer getAverageGrade() throws FileNotFoundException {
++        int sumOfGrades=0;
++        int count=0;
++        for(int i=0; i<getTheList().size();i++){
++            sumOfGrades+=getTheList().get(i).getGrade();
++            count++;
++        }
++        return sumOfGrades/count;
++    }
++
++    public StudentGrade getWorstGrade() throws FileNotFoundException {
++        int minGrade=getTheList().get(0).getGrade();
++        int minIndex=0;
++        for(int i=1; i<getTheList().size();i++){
++            int grade2=getTheList().get(i).getGrade();
++            int grade=Math.min(minGrade, grade2);
++            if(grade<minGrade){
++                minGrade=grade;
++                minIndex=i;
++            }
++        }
++        return getTheList().get(minIndex);
++    }
++}
+Index: src/org/fasttrackit/homeworkcurs10/StudentGrade.java
+===================================================================
+diff --git a/src/org/fasttrackit/homeworkcurs10/StudentGrade.java b/src/org/fasttrackit/homeworkcurs10/StudentGrade.java
+new file mode 100644
+--- /dev/null	(date 1723628159966)
++++ b/src/org/fasttrackit/homeworkcurs10/StudentGrade.java	(date 1723628159966)
+@@ -0,0 +1,35 @@
++package org.fasttrackit.homeworkcurs10;
++
++public class StudentGrade {
++    private final String name;
++    private final String discipline;
++    private final int grade;
++
++    public StudentGrade(String name, String discipline, int grade) {
++        this.name = name;
++        this.discipline = discipline;
++        this.grade = grade;
++    }
++
++    public String getName() {
++        return name;
++    }
++
++    public String getDiscipline() {
++        return discipline;
++    }
++
++    public int getGrade() {
++        return grade;
++    }
++
++    @Override
++    public String toString() {
++        return "StudentGrade{" +
++                "name='" + name + '\'' +
++                ", discipline='" + discipline + '\'' +
++                ", grade=" + grade +
++                '}';
++    }
++
++}
+\ No newline at end of file
+Index: src/org/fasttrackit/homeworkcurs10/exercise3/Car.java
+===================================================================
+diff --git a/src/org/fasttrackit/homeworkcurs10/exercise3/Car.java b/src/org/fasttrackit/homeworkcurs10/exercise3/Car.java
+new file mode 100644
+--- /dev/null	(date 1723628159931)
++++ b/src/org/fasttrackit/homeworkcurs10/exercise3/Car.java	(date 1723628159931)
+@@ -0,0 +1,7 @@
++package org.fasttrackit.homeworkcurs10.exercise3;
++
++public class Car {
++    private String model;
++    private int capacityOfEngine;
++    private int numberOfDoors;
++}
+Index: src/org/fasttrackit/homeworkcurs10/exercise3/RemoteControl.java
+===================================================================
+diff --git a/src/org/fasttrackit/homeworkcurs10/exercise3/RemoteControl.java b/src/org/fasttrackit/homeworkcurs10/exercise3/RemoteControl.java
+new file mode 100644
+--- /dev/null	(date 1723628160005)
++++ b/src/org/fasttrackit/homeworkcurs10/exercise3/RemoteControl.java	(date 1723628160005)
+@@ -0,0 +1,6 @@
++package org.fasttrackit.homeworkcurs10.exercise3;
++
++public class RemoteControl {
++    private int workingDistance;
++    private int price;
++}
+Index: src/org/fasttrackit/homeworkcurs10/exercise3/Folder.java
+===================================================================
+diff --git a/src/org/fasttrackit/homeworkcurs10/exercise3/Folder.java b/src/org/fasttrackit/homeworkcurs10/exercise3/Folder.java
+new file mode 100644
+--- /dev/null	(date 1723628159984)
++++ b/src/org/fasttrackit/homeworkcurs10/exercise3/Folder.java	(date 1723628159984)
+@@ -0,0 +1,6 @@
++package org.fasttrackit.homeworkcurs10.exercise3;
++
++public class Folder {
++    private int numberOfContainedFiles;
++    private String nameOfTheFolder;
++}
+Index: src/org/fasttrackit/homeworkcurs10/exercise3/Bike.java
+===================================================================
+diff --git a/src/org/fasttrackit/homeworkcurs10/exercise3/Bike.java b/src/org/fasttrackit/homeworkcurs10/exercise3/Bike.java
+new file mode 100644
+--- /dev/null	(date 1723628160034)
++++ b/src/org/fasttrackit/homeworkcurs10/exercise3/Bike.java	(date 1723628160034)
+@@ -0,0 +1,7 @@
++package org.fasttrackit.homeworkcurs10.exercise3;
++
++public class Bike {
++    private int numberOfWheels;
++    private int diameterSizeOfWheel;
++    private String color;
++}
+Index: files/grades.txt
+===================================================================
+diff --git a/files/grades.txt b/files/grades.txt
+new file mode 100644
+--- /dev/null	(date 1723628160020)
++++ b/files/grades.txt	(date 1723628160020)
+@@ -0,0 +1,20 @@
++Ealhstan Saira|Computer Science|8
++Gasparo Sava|Mathematics|7
++Demetria Cosme|Mathematics|4
++Majken Olgica|History|10
++Miriana Rómulo|Computer Science|10
++Utu Arcadius|Physics|3
++Branwen Evelina|Physics|4
++Amilia Hilaria|Mathematics|9
++Marina Alimjan|Computer Science|5
++Duilio Marius|Physics|7
++Richa Ansgar|Mathematics|4
++Bennett Frieda|Mathematics|7
++Ermingard Tome|Physics|10
++Jannike Lucianv|Computer Science|3
++Neela Amaltheia|Physics|6
++Asim Jeltje|Computer Science|17
++Dulf Siguror|Mathematics|4
++Eilert Mechteld|Mathematics|6
++Storm Lital|Computer Science|9
++Mubin Vyquoxpi|Physics|9
+\ No newline at end of file
+Index: src/org/fasttrackit/homeworkcurs10/exercise3/Flashlight.java
+===================================================================
+diff --git a/src/org/fasttrackit/homeworkcurs10/exercise3/Flashlight.java b/src/org/fasttrackit/homeworkcurs10/exercise3/Flashlight.java
+new file mode 100644
+--- /dev/null	(date 1723628160065)
++++ b/src/org/fasttrackit/homeworkcurs10/exercise3/Flashlight.java	(date 1723628160065)
+@@ -0,0 +1,6 @@
++package org.fasttrackit.homeworkcurs10.exercise3;
++
++public class Flashlight {
++    private String type;
++    private int numberOfIlluminatingStyles;
++}
+\ No newline at end of file
+Index: src/org/fasttrackit/homeworkcurs10/exercise3/Document.java
+===================================================================
+diff --git a/src/org/fasttrackit/homeworkcurs10/exercise3/Document.java b/src/org/fasttrackit/homeworkcurs10/exercise3/Document.java
+new file mode 100644
+--- /dev/null	(date 1723628160046)
++++ b/src/org/fasttrackit/homeworkcurs10/exercise3/Document.java	(date 1723628160046)
+@@ -0,0 +1,6 @@
++package org.fasttrackit.homeworkcurs10.exercise3;
++
++public class Document {
++    private int numberOfPages;
++    private String nameOfDocument;
++}
+\ No newline at end of file
+Index: src/org/fasttrackit/homeworkcurs10/exercise3/Telephone.java
+===================================================================
+diff --git a/src/org/fasttrackit/homeworkcurs10/exercise3/Telephone.java b/src/org/fasttrackit/homeworkcurs10/exercise3/Telephone.java
+new file mode 100644
+--- /dev/null	(date 1723628160094)
++++ b/src/org/fasttrackit/homeworkcurs10/exercise3/Telephone.java	(date 1723628160094)
+@@ -0,0 +1,7 @@
++package org.fasttrackit.homeworkcurs10.exercise3;
++
++public class Telephone {
++    private String model;
++    private int capacityOfMemory;
++    private int sizeOfDisplay;
++}
+Index: src/org/fasttrackit/homeworkcurs10/exercise3/File.java
+===================================================================
+diff --git a/src/org/fasttrackit/homeworkcurs10/exercise3/File.java b/src/org/fasttrackit/homeworkcurs10/exercise3/File.java
+new file mode 100644
+--- /dev/null	(date 1723628160076)
++++ b/src/org/fasttrackit/homeworkcurs10/exercise3/File.java	(date 1723628160076)
+@@ -0,0 +1,6 @@
++package org.fasttrackit.homeworkcurs10.exercise3;
++
++public class File {
++    private int numberOfLines;
++    private String titleOfFile;
++}
+Index: src/org/fasttrackit/homeworkcurs10/exercise3/Person.java
+===================================================================
+diff --git a/src/org/fasttrackit/homeworkcurs10/exercise3/Person.java b/src/org/fasttrackit/homeworkcurs10/exercise3/Person.java
+new file mode 100644
+--- /dev/null	(date 1723628160118)
++++ b/src/org/fasttrackit/homeworkcurs10/exercise3/Person.java	(date 1723628160118)
+@@ -0,0 +1,7 @@
++package org.fasttrackit.homeworkcurs10.exercise3;
++
++import java.util.Date;
++public class Person {
++    private String name;
++    private Date birthday;
++}
+Index: src/org/fasttrackit/homeworkcurs10/exercise3/Pool.java
+===================================================================
+diff --git a/src/org/fasttrackit/homeworkcurs10/exercise3/Pool.java b/src/org/fasttrackit/homeworkcurs10/exercise3/Pool.java
+new file mode 100644
+--- /dev/null	(date 1723628160106)
++++ b/src/org/fasttrackit/homeworkcurs10/exercise3/Pool.java	(date 1723628160106)
+@@ -0,0 +1,7 @@
++package org.fasttrackit.homeworkcurs10.exercise3;
++
++public class Pool {
++    private int length;
++    private int width;
++    private int depth;
++}
+Index: src/org/fasttrackit/homeworkcurs10/exercise3/Application.java
+===================================================================
+diff --git a/src/org/fasttrackit/homeworkcurs10/exercise3/Application.java b/src/org/fasttrackit/homeworkcurs10/exercise3/Application.java
+new file mode 100644
+--- /dev/null	(date 1723628160148)
++++ b/src/org/fasttrackit/homeworkcurs10/exercise3/Application.java	(date 1723628160148)
+@@ -0,0 +1,7 @@
++package org.fasttrackit.homeworkcurs10.exercise3;
++
++public class Application {
++    private String nameOfTheApplication;
++    private String versionOfTheApplication;
++    private int requiredMemory;
++}
+Index: src/org/fasttrackit/homeworkcurs10/exercise3/Coffee.java
+===================================================================
+diff --git a/src/org/fasttrackit/homeworkcurs10/exercise3/Coffee.java b/src/org/fasttrackit/homeworkcurs10/exercise3/Coffee.java
+new file mode 100644
+--- /dev/null	(date 1723628160133)
++++ b/src/org/fasttrackit/homeworkcurs10/exercise3/Coffee.java	(date 1723628160133)
+@@ -0,0 +1,6 @@
++package org.fasttrackit.homeworkcurs10.exercise3;
++
++public class Coffee {
++    private String brand;
++    private String type;
++}
+Index: src/org/fasttrackit/homeworkcurs10/exercise3/TV.java
+===================================================================
+diff --git a/src/org/fasttrackit/homeworkcurs10/exercise3/TV.java b/src/org/fasttrackit/homeworkcurs10/exercise3/TV.java
+new file mode 100644
+--- /dev/null	(date 1723628160179)
++++ b/src/org/fasttrackit/homeworkcurs10/exercise3/TV.java	(date 1723628160179)
+@@ -0,0 +1,7 @@
++package org.fasttrackit.homeworkcurs10.exercise3;
++
++public class TV {
++    private String brand;
++    private int displaySize;
++    private int numberOfPixels;
++}
+\ No newline at end of file
+Index: src/org/fasttrackit/homeworkcurs10/exercise3/Chair.java
+===================================================================
+diff --git a/src/org/fasttrackit/homeworkcurs10/exercise3/Chair.java b/src/org/fasttrackit/homeworkcurs10/exercise3/Chair.java
+new file mode 100644
+--- /dev/null	(date 1723628160161)
++++ b/src/org/fasttrackit/homeworkcurs10/exercise3/Chair.java	(date 1723628160161)
+@@ -0,0 +1,6 @@
++package org.fasttrackit.homeworkcurs10.exercise3;
++
++public class Chair {
++    private int numberOfLegs;
++    private boolean hasBackrest;
++}
+Index: src/org/fasttrackit/homeworkcurs10/exercise3/User.java
+===================================================================
+diff --git a/src/org/fasttrackit/homeworkcurs10/exercise3/User.java b/src/org/fasttrackit/homeworkcurs10/exercise3/User.java
+new file mode 100644
+--- /dev/null	(date 1723628160206)
++++ b/src/org/fasttrackit/homeworkcurs10/exercise3/User.java	(date 1723628160206)
+@@ -0,0 +1,7 @@
++package org.fasttrackit.homeworkcurs10.exercise3;
++
++public class User {
++    private String username;
++    private String password;
++    private String name;
++}
+Index: src/org/fasttrackit/homeworkcurs10/exercise3/Door.java
+===================================================================
+diff --git a/src/org/fasttrackit/homeworkcurs10/exercise3/Door.java b/src/org/fasttrackit/homeworkcurs10/exercise3/Door.java
+new file mode 100644
+--- /dev/null	(date 1723628160194)
++++ b/src/org/fasttrackit/homeworkcurs10/exercise3/Door.java	(date 1723628160194)
+@@ -0,0 +1,7 @@
++package org.fasttrackit.homeworkcurs10.exercise3;
++
++public class Door {
++    private int length;
++    private int width;
++    private int thickness;
++}
+Index: src/org/fasttrackit/homeworkcurs10/exercise3/Window.java
+===================================================================
+diff --git a/src/org/fasttrackit/homeworkcurs10/exercise3/Window.java b/src/org/fasttrackit/homeworkcurs10/exercise3/Window.java
+new file mode 100644
+--- /dev/null	(date 1723628160233)
++++ b/src/org/fasttrackit/homeworkcurs10/exercise3/Window.java	(date 1723628160233)
+@@ -0,0 +1,7 @@
++package org.fasttrackit.homeworkcurs10.exercise3;
++
++public class Window {
++    private int length;
++    private int height;
++    private int price;
++}
+Index: src/org/fasttrackit/homeworkcurs10/exercise3/Desk.java
+===================================================================
+diff --git a/src/org/fasttrackit/homeworkcurs10/exercise3/Desk.java b/src/org/fasttrackit/homeworkcurs10/exercise3/Desk.java
+new file mode 100644
+--- /dev/null	(date 1723628160216)
++++ b/src/org/fasttrackit/homeworkcurs10/exercise3/Desk.java	(date 1723628160216)
+@@ -0,0 +1,7 @@
++package org.fasttrackit.homeworkcurs10.exercise3;
++
++public class Desk {
++    public int length;
++    public int width;
++    public int height;
++}
+Index: src/org/fasttrackit/homeworkcurs10/exercise3/Guitar.java
+===================================================================
+diff --git a/src/org/fasttrackit/homeworkcurs10/exercise3/Guitar.java b/src/org/fasttrackit/homeworkcurs10/exercise3/Guitar.java
+new file mode 100644
+--- /dev/null	(date 1723628160263)
++++ b/src/org/fasttrackit/homeworkcurs10/exercise3/Guitar.java	(date 1723628160263)
+@@ -0,0 +1,7 @@
++package org.fasttrackit.homeworkcurs10.exercise3;
++
++public class Guitar {
++    private String type;
++    private int numberOfStrings;
++    private int price;
++}
+Index: src/org/fasttrackit/homeworkcurs10/exercise3/ToothBrush.java
+===================================================================
+diff --git a/src/org/fasttrackit/homeworkcurs10/exercise3/ToothBrush.java b/src/org/fasttrackit/homeworkcurs10/exercise3/ToothBrush.java
+new file mode 100644
+--- /dev/null	(date 1723628160249)
++++ b/src/org/fasttrackit/homeworkcurs10/exercise3/ToothBrush.java	(date 1723628160249)
+@@ -0,0 +1,6 @@
++package org.fasttrackit.homeworkcurs10.exercise3;
++
++public class ToothBrush {
++    private String type;
++    private int price;
++}
+Index: src/org/fasttrackit/homeworkcurs10/exercise3/Milk.java
+===================================================================
+diff --git a/src/org/fasttrackit/homeworkcurs10/exercise3/Milk.java b/src/org/fasttrackit/homeworkcurs10/exercise3/Milk.java
+new file mode 100644
+--- /dev/null	(date 1723628160296)
++++ b/src/org/fasttrackit/homeworkcurs10/exercise3/Milk.java	(date 1723628160296)
+@@ -0,0 +1,6 @@
++package org.fasttrackit.homeworkcurs10.exercise3;
++
++public class Milk {
++    private String typeOfMilk;
++    private int percentageOfFat;
++}
+Index: src/org/fasttrackit/homeworkcurs10/exercise3/Pen.java
+===================================================================
+diff --git a/src/org/fasttrackit/homeworkcurs10/exercise3/Pen.java b/src/org/fasttrackit/homeworkcurs10/exercise3/Pen.java
+new file mode 100644
+--- /dev/null	(date 1723628160282)
++++ b/src/org/fasttrackit/homeworkcurs10/exercise3/Pen.java	(date 1723628160282)
+@@ -0,0 +1,6 @@
++package org.fasttrackit.homeworkcurs10.exercise3;
++
++public class Pen {
++    private String color;
++    private int price;
++}
+Index: src/org/fasttrackit/homeworkcurs10/exercise3/Classroom.java
+===================================================================
+diff --git a/src/org/fasttrackit/homeworkcurs10/exercise3/Classroom.java b/src/org/fasttrackit/homeworkcurs10/exercise3/Classroom.java
+new file mode 100644
+--- /dev/null	(date 1723628160326)
++++ b/src/org/fasttrackit/homeworkcurs10/exercise3/Classroom.java	(date 1723628160326)
+@@ -0,0 +1,7 @@
++package org.fasttrackit.homeworkcurs10.exercise3;
++
++public class Classroom {
++    private int numberOfSeats;
++    private int length;
++    private int width;
++}
+\ No newline at end of file
+Index: src/org/fasttrackit/homeworkcurs10/exercise3/OperatingSystem.java
+===================================================================
+diff --git a/src/org/fasttrackit/homeworkcurs10/exercise3/OperatingSystem.java b/src/org/fasttrackit/homeworkcurs10/exercise3/OperatingSystem.java
+new file mode 100644
+--- /dev/null	(date 1723628160312)
++++ b/src/org/fasttrackit/homeworkcurs10/exercise3/OperatingSystem.java	(date 1723628160312)
+@@ -0,0 +1,6 @@
++package org.fasttrackit.homeworkcurs10.exercise3;
++
++public class OperatingSystem {
++    private String typeOfOperatingSystem;
++    private String versionOfTheSoftware;
++}
+Index: src/org/fasttrackit/homeworkcurs10/exercise3/School.java
+===================================================================
+diff --git a/src/org/fasttrackit/homeworkcurs10/exercise3/School.java b/src/org/fasttrackit/homeworkcurs10/exercise3/School.java
+new file mode 100644
+--- /dev/null	(date 1723628160353)
++++ b/src/org/fasttrackit/homeworkcurs10/exercise3/School.java	(date 1723628160353)
+@@ -0,0 +1,6 @@
++package org.fasttrackit.homeworkcurs10.exercise3;
++
++public class School {
++    private int numberOfStudents;
++    private int numberOfPrograms;
++}
+Index: src/org/fasttrackit/homeworkcurs10/exercise3/Book.java
+===================================================================
+diff --git a/src/org/fasttrackit/homeworkcurs10/exercise3/Book.java b/src/org/fasttrackit/homeworkcurs10/exercise3/Book.java
+new file mode 100644
+--- /dev/null	(date 1723628160340)
++++ b/src/org/fasttrackit/homeworkcurs10/exercise3/Book.java	(date 1723628160340)
+@@ -0,0 +1,7 @@
++package org.fasttrackit.homeworkcurs10.exercise3;
++
++public class Book {
++    private String nameOfBook;
++    private String nameOfAuthor;
++    private int numberOfPages;
++}
+Index: src/org/fasttrackit/homeworkcurs10/exercise3/Animal.java
+===================================================================
+diff --git a/src/org/fasttrackit/homeworkcurs10/exercise3/Animal.java b/src/org/fasttrackit/homeworkcurs10/exercise3/Animal.java
+new file mode 100644
+--- /dev/null	(date 1723628160381)
++++ b/src/org/fasttrackit/homeworkcurs10/exercise3/Animal.java	(date 1723628160381)
+@@ -0,0 +1,6 @@
++package org.fasttrackit.homeworkcurs10.exercise3;
++
++public class Animal {
++    private String environmentOfLiving;
++    private int numberOfLegs;
++}
+Index: src/org/fasttrackit/homeworkcurs10/exercise3/Laptop.java
+===================================================================
+diff --git a/src/org/fasttrackit/homeworkcurs10/exercise3/Laptop.java b/src/org/fasttrackit/homeworkcurs10/exercise3/Laptop.java
+new file mode 100644
+--- /dev/null	(date 1723628160366)
++++ b/src/org/fasttrackit/homeworkcurs10/exercise3/Laptop.java	(date 1723628160366)
+@@ -0,0 +1,7 @@
++package org.fasttrackit.homeworkcurs10.exercise3;
++
++public class Laptop {
++    private int capacityOfMemory;
++    private String model;
++    private String typeOfProcessor;
++}
+\ No newline at end of file
+Index: src/org/fasttrackit/homeworkcurs10/exercise3/House.java
+===================================================================
+diff --git a/src/org/fasttrackit/homeworkcurs10/exercise3/House.java b/src/org/fasttrackit/homeworkcurs10/exercise3/House.java
+new file mode 100644
+--- /dev/null	(date 1723628160397)
++++ b/src/org/fasttrackit/homeworkcurs10/exercise3/House.java	(date 1723628160397)
+@@ -0,0 +1,6 @@
++package org.fasttrackit.homeworkcurs10.exercise3;
++
++public class House {
++    private int squareFeet;
++    private int numberOfFloors;
++}

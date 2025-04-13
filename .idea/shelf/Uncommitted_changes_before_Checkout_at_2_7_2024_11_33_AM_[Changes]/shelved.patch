@@ -1,0 +1,44 @@
+Index: src/Lamp.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>public class Lamp {\r\n    private boolean lightState;\r\n    private String color = \"red\";\r\n\r\n    private int intensity;\r\n\r\n    private boolean addedLater;\r\n    private boolean oneMore;\r\n\r\n    Lamp() {\r\n        System.out.println(\"Starting construction of lamp\");\r\n        lightState = false;\r\n        intensity = 5;\r\n    }\r\n\r\n    Lamp(String color, int intensity){\r\n        System.out.println(\"Starting construction of lamp with color \" + color + \" and intensity \" + intensity);\r\n        this.color = color;\r\n        this.intensity = intensity;\r\n    }\r\n\r\n    public void turnOn(){\r\n        System.out.println(\"Turning on with color \" + color + \" with intensity \" + intensity);\r\n        lightState = true;\r\n    }\r\n\r\n    public void turnOff(){\r\n        System.out.println(\"Turning off\");\r\n        lightState = false;\r\n    }\r\n\r\n    public void increaseIntensity(){\r\n        this.intensity++;\r\n    }\r\n}\r\n
+===================================================================
+diff --git a/src/Lamp.java b/src/Lamp.java
+--- a/src/Lamp.java	
++++ b/src/Lamp.java	
+@@ -5,7 +5,6 @@
+     private int intensity;
+ 
+     private boolean addedLater;
+-    private boolean oneMore;
+ 
+     Lamp() {
+         System.out.println("Starting construction of lamp");
+@@ -13,23 +12,23 @@
+         intensity = 5;
+     }
+ 
+-    Lamp(String color, int intensity){
++    Lamp(String color, int intensity) {
+         System.out.println("Starting construction of lamp with color " + color + " and intensity " + intensity);
+         this.color = color;
+         this.intensity = intensity;
+     }
+ 
+-    public void turnOn(){
++    public void turnOn() {
+         System.out.println("Turning on with color " + color + " with intensity " + intensity);
+         lightState = true;
+     }
+ 
+-    public void turnOff(){
++    public void turnOff() {
+         System.out.println("Turning off");
+         lightState = false;
+     }
+ 
+-    public void increaseIntensity(){
++    public void increaseIntensity() {
+         this.intensity++;
+     }
+ }
